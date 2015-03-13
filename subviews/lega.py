@@ -278,7 +278,7 @@ class PanelEditLega(wx.Panel):
         self.cb_leghe = wx.ComboBox(self, -1, "scegli la lega...",
                                     choices=self.leghe, style=wx.CB_DROPDOWN)
         self.cb_leghe.SetBackgroundColour('Yellow')
-        self.cb_leghe.SetLabelText('Leghe...')
+        self.cb_leghe.SetValue('Leghe...')
         sizer = wx.BoxSizer(wx.VERTICAL)
         sizer.Add(self.cb_leghe, 0, wx.EXPAND)
         self.SetBackgroundColour('Pink')
