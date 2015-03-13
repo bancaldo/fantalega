@@ -5,7 +5,9 @@ Fantalega manager 2.1
 Con questa applicazione è possibile gestire una fantalega a gironi.
 I file voti da importare, necessari per la gestione della fantalega,
 si basano sulle votazioni della Gazzetta Dello Sport e sono disponibili,
-in formato txt, sul blog: www.bancaldo.wordpress.com
+in formato txt, sul blog: 
+
+    www.bancaldo.wordpress.com
 
 Una volta importati i voti, è possibile procedere con la creazione della
 lega e delle squadre ad essa associate ed eseguire l'asta sui giocatori.
@@ -24,6 +26,7 @@ Librerie utilizzate:
 Il passo successivo e portare l'applicazione sul web grazie a Flask
 
 Lanciare l'applicazione con:
+
     python controller.py
 
 Licenza: GNU GPL
