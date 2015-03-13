@@ -17,10 +17,13 @@ Il regolamento è disponibile nel menu dell'applicazione.
 L'applicazione è interamente scritta in python con un pattern MVC.
 Librerie utilizzate:
 
-wx -> Grafica
-Flask -> Database relazionale
-         Il passo successivo e portare l'applicazione sul web
-         grazie a Flask
+    wx -> Grafica
 
+    Flask -> Database relazionale
+
+Il passo successivo e portare l'applicazione sul web grazie a Flask
+
+Lanciare l'applicazione con:
+    python controller.py
 
 Licenza: GNU GPL
